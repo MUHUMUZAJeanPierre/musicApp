@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/Apple-Headphones.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+   
+}
+
+.search-bar {
+    width: 100%;
+    max-width: 700px;
+    background: #777575;
+    display: flex;
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
+}
+
+.search-bar input {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 20px;
+    color: #fff;
+}
+
+::placeholder {
+    color: #fff;
+}
+
+.search-bar button img {
+    width: 50px;
+    background-color: #ced2e9;
+    border-radius: 50%;
+}
+
+.search-bar button {
+    border: 0;
+    border-radius: 70%;
+    width: 80px;
+    height: 80px;
+    background: #ced2e9;
+    cursor: pointer;
+}
+
+.results {
+    /* background: #dddcee; */
+}
+
+p {
+    /* margin-top: 0px; */
+    font-size: 70px;
+    color: rgb(190, 183, 183);
+    text-align: center;
+}
