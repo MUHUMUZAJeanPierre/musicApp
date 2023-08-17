@@ -1,3 +1,7 @@
+**demo  **
+https://www.kapwing.com/w/JeCIZAgI4c
+**the functionaties of web application and important to the users**
+
 This is web application that enables users to look up music tracks and get comprehensive details about them. This application's goal is to improve users' musical discovery by giving them in-depth information about their favorite songs.
 
 This website's main goal is to give users a simple, user-friendly approach to search for music tracks and get access to comprehensive track information. Users only need to type in the name of a song to access the application, which will then find out pertinent details about that music.
